@@ -1,0 +1,59 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "title": "Introduction to Python Programming",
+            "slug": "introduction-to-python-programming",
+            "description": "Learn the fundamentals of Python programming language.",
+            "price": 49.99,
+            "instructor": "John Doe",
+            "isFeatured": true
+        },
+        {
+            "id": 2,
+            "title": "Web Development with HTML & CSS",
+            "slug": "web-development-with-html-css",
+            "description": "Master the basics of web development using HTML and CSS.",
+            "price": 59.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true
+        },
+        {
+            "id": 3,
+            "title": "JavaScript Essentials",
+            "slug": "javascript-essentials",
+            "description": "Get started with JavaScript programming for web development.",
+            "price": 69.99,
+            "instructor": "Alex Johnson",
+            "isFeatured": false
+        },
+        {
+            "id": 4,
+            "title": "Data Science Fundamentals",
+            "slug": "data-science-fundamentals",
+            "description": "Explore the core concepts of data science.",
+            "price": 79.99,
+            "instructor": "Emily Brown",
+            "isFeatured": false
+        },
+        {
+            "id": 5,
+            "title": "Machine Learning Basics",
+            "slug": "machine-learning-basics",
+            "description": "An introductory course to machine learning algorithms and techniques.",
+            "price": 89.99,
+            "instructor": "Michael Clark",
+            "isFeatured": true
+        },
+        {
+            "id": 6,
+            "title": "Introduction to Artificial Intelligence",
+            "slug": "introduction-to-artificial-intelligence",
+            "description": "Learn the basics of artificial intelligence and its applications.",
+            "price": 99.99,
+            "instructor": "Sophia Lee",
+            "isFeatured": false
+        }
+    ]
+    
+}
